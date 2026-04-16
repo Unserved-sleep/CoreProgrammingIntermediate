@@ -1,2 +1,2 @@
 # CoreProgrammingIntermediate
-Practice Problems Day1-5
+Practice Problems Day 3 -Arrays
