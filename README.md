@@ -2,7 +2,7 @@
 
 Basic core Problems
 
-1. Flip Coin and print percentage of Heads and Tails
+# 1. Flip Coin and print percentage of Heads and Tails
 
 
 a. I/P -> The number of times to Flip Coin. Ensure it is a positive integer.
@@ -13,7 +13,7 @@ heads
 c. O/P -> Percentage of Head vs Tails
 
 
-2. Leap Year
+# 2. Leap Year
 
 
 a. I/P -> Year, ensure it is a 4 digit number.
@@ -23,7 +23,7 @@ b. Logic -> Determine if it is a Leap Year.
 c. O/P -> Print the year is a Leap Year or not.
 
 
-3. Power of 2
+# 3. Power of 2
 
 
 a. Desc -> This program takes a command-line argument N and prints a table of the
@@ -36,7 +36,7 @@ c. Logic -> repeat until i equals N.
 d. O/P -> Print the year is a Leap Year or not.
 
 
-4. Harmonic Number
+# 4. Harmonic Number
 
    
 a. Desc -> Prints the Nth harmonic number: 1/1 + 1/2 + ... + 1/N
@@ -50,7 +50,7 @@ c. Logic -> compute 1/1 + 1/2 + 1/3 + ... + 1/N
 d. O/P -> Print the Nth Harmonic Value.
 
 
-5. Factors
+# 5. Factors
 
    
 a. Desc -> Computes the prime factorization of N using brute force.
@@ -62,16 +62,16 @@ c. Logic -> Traverse till i*i <= N instead of i <= N for efficiency.
 d. O/P -> Print the prime factors of number N.
 
 
-6. Java Program to Compute Quotient and Remainder
+# 6. Java Program to Compute Quotient and Remainder
    
 
-7. Java Program to Swap Two Numbers
+# 7. Java Program to Swap Two Numbers
    
 
-8. Java Program to Check Whether a Number is Even or Odd
+# 8. Java Program to Check Whether a Number is Even or Odd
   
 
-9. Java Program to Check Whether an Alphabet is Vowel or Consonant
+# 9. Java Program to Check Whether an Alphabet is Vowel or Consonant
   
 
-10. Java Program to Find the Largest Among Three Numbers
+# 10. Java Program to Find the Largest Among Three Numbers
